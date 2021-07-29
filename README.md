@@ -1,7 +1,7 @@
-# Abito - dashboard
+## Abito - dashboard
 Учебный проект Glo Academy
 
-## выполнил проект — Artur Mihaylenko
+### выполнил проект — Artur Mihaylenko
 
 #### Технологии в проекте
 HTML
