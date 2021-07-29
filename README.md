@@ -4,5 +4,6 @@
 ### выполнил проект — Artur Mihaylenko
 
 #### Технологии в проекте
-HTML
-CSS
+- HTML
+- CSS
+- JavaScript
